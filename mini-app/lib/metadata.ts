@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Tokenised Perpetual Trading App";
+export const description = "Trade tokenised securities and derivatives with perpetual leverage across global markets, featuring an Indian capital markets touch.";
 export const url = process.env.NEXT_PUBLIC_URL;
